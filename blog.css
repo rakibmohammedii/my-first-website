@@ -1,3 +1,7 @@
 h3{
-    background-color: aqua;
+    background-color: rgb(93, 146, 146);
+}
+p{
+    background-color: blueviolet;
+    color: rgb(249, 61, 4);
 }
